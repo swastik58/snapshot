@@ -6,7 +6,7 @@ P.S. THE MUSIC IS GIVEN BECAUSE IT PROVIDES A CALMING EFFECT. NOTHING MORE
 
 HEROKU : https://signup.heroku.com/login
 
-LINK TO THE APP : 
+LINK TO THE APP : https://snapshot-react.herokuapp.com/
 
 ## BUILT USING :
 - REACT API
@@ -20,10 +20,3 @@ LINK TO THE APP :
 ## CONTRIBUTIONS :
 - ANYONE IS ALLOWED TO CONTRIBUTE TO THIS PROJECT
 
-## SOME SCREENSHOTS OF THE SITE : 
-
-<img src="ss.png">
-
-<img src="ss2.png">
-
-<img src="ss3.png">
